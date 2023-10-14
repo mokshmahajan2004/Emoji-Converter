@@ -1,0 +1,27 @@
+.main_container{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid black;
+    padding: 40px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+}
+.main_container input{
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid black;
+    font-size: 17px;
+}
+
+#next_name{
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+}

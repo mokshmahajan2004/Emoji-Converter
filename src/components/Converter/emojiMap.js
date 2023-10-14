@@ -1,0 +1,54 @@
+const emojiMap = {
+    happy: '\u{1F604}',        // 😄
+    hi: '\u{1F44B}',           // 👋
+    sad: '\u{1F622}',          // 😢
+    love: '\u{2764}\u{FE0F}',  // ❤️
+    like: '\u{1F44D}',         // 👍
+    laugh: '\u{1F602}',        // 😂
+    surprised: '\u{1F632}',    // 😮
+    angry: '\u{1F620}',        // 😠
+    cool: '\u{1F60E}',         // 😎
+    thumbsup: '\u{1F44D}',     // 👍
+    thumbsdown: '\u{1F44E}',   // 👎
+    hearteyes: '\u{1F60D}',    // 😍
+    crying: '\u{1F62D}',       // 😭
+    fire: '\u{1F525}',         // 🔥
+    star: '\u{2B50}',          // ⭐️
+    rocket: '\u{1F680}',       // 🚀
+    party: '\u{1F389}',        // 🎉
+    music: '\u{1F3B5}',        // 🎵
+    book: '\u{1F4D6}',         // 📖
+    coffee: '\u{2615}',        // ☕️
+    cake: '\u{1F382}',         // 🍰
+    rainbow: '\u{1F308}',      // 🌈
+    beach: '\u{1F3D6}',        // 🏖️
+    movie: '\u{1F3A5}',        // 🎥
+    money: '\u{1F4B0}',        // 💰
+    clock: '\u{23F0}',         // ⏰
+    computer: '\u{1F4BB}',     // 💻
+    globe: '\u{1F30D}',        // 🌍
+    plane: '\u{2708}',         // ✈️
+    car: '\u{1F697}',          // 🚗
+    bicycle: '\u{1F6B2}',      // 🚲
+    umbrella: '\u{2614}',      // ☔️
+    snowflake: '\u{2744}',     // ❄️
+    sun: '\u{2600}',           // ☀️
+    moon: '\u{1F314}',         // 🌔
+    flower: '\u{1F33A}',       // 🌺
+    pizza: '\u{1F355}',        // 🍕
+    burger: '\u{1F354}',       // 🍔
+    icecream: '\u{1F366}',     // 🍦
+    donut: '\u{1F369}',        // 🍩
+    taco: '\u{1F32E}',         // 🌮
+    sushi: '\u{1F363}',        // 🍣
+    beer: '\u{1F37A}',         // 🍺
+    wine: '\u{1F377}',         // 🍷
+    cocktail: '\u{1F378}',     // 🍸
+    thumbsup2: '\u{1F44C}',    // 👌
+    ok: '\u{1F44C}',           // 👌
+    heart: '\u{2764}',         // ❤️
+    kiss: '\u{1F48B}',         // 💋
+  };
+  
+  export default emojiMap;
+  

@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(165, 165, 195);
+}
+
+#textarea{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(80, 144, 155);
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    border: none;
+   
+    position: absolute;
+    left: 25%;
+}
+h1{
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    color: rgb(47, 47, 34);
+}
+#convert{
+    display: flex;
+    position: relative;
+    font-size: large;
+    background-color: aliceblue;
+    border: 1px solid lightblue;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    top: 350px;
+    left: 400px;
+}
+#output{
+    background-color: aquamarine;
+    width: 700px;
+    height: 300px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 400px;
+    left: 400px;
+    border-radius: 10px;
+}
